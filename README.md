@@ -15,9 +15,8 @@ python pyfiglet
 <img src="https://i.ibb.co/1qm4bfS/Original.png" alt="Original" border="0">
 
 # Some Examples : 
-<a href="https://files.fm/u/mtnstavw#/view/original2.png"><img src="https://files.fm/thumb_show.php?i=7tg5vx8c"></a>
-<a href="https://files.fm/u/m4dq3jeh#/view/original3.png"><img src="https://files.fm/thumb_show.php?i=hsekskxp"></a>
-
+<img src="https://i.ibb.co/RpfpfhZ/original2.png" alt="original2" border="0">
+<img src="https://i.ibb.co/Fhnxrx3/original3.png" alt="original3" border="0">
 
 # Author  :
 ## benelhaj younes 
