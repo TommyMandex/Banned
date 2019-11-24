@@ -1,6 +1,6 @@
 #!/usr/bin/python
-# Made By Benelhaj_younes
-#My Instagram : benelhaj_younes
+# Made By r2dr0dn
+# Twt: @r2dr0dn
 try:
 
  import pyfiglet,optparse
@@ -47,7 +47,7 @@ print("        "+cyan+"MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM")
 print("        "+cyan+"MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM")
 print("        "+cyan+"MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM")
 print("        "+Blue+"              "+Green+"["+Reset+"Banned"+Reset+"]"+Blue+"         ")
-print("     "+Red+"         "+Red+"["+Red+"Created By Benelhaj_younes"+Grey+"]"+Blue+"    "+Reset+"\n")
+print("     "+Red+"         "+Red+"["+Red+"    Made By r2dr0dn"+Grey+"]"+Blue+"    "+Reset+"\n")
 
 parse = optparse.OptionParser("""
   Usage: python banned.py [OPTION..]
@@ -116,11 +116,5 @@ def Main():
 
 if __name__=="__main__":
 	Main()
-
-##############################################################
-##################### 		     #########################
-#####################   END OF TOOL  #########################
-#####################                #########################
-##############################################################
-#Always Relax And Have Fun!!
+#'='!!
 
