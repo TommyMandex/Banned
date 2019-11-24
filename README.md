@@ -3,7 +3,7 @@ Banned Is A Python Script For Making Your Text Looks Awesome With Great Fonts.
 
 # Installation:
 
-git clone https://github.com/doophack/Banned.git
+git clone https://github.com/r2dr0dn/Banned.git
 
 cd Banned
 
@@ -19,4 +19,4 @@ python pyfiglet
 <img src="https://i.ibb.co/Fhnxrx3/original3.png" alt="original3" border="0">
 
 # Author  :
-## benelhaj younes 
+## r2dr0dn
