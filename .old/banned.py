@@ -59,7 +59,7 @@ parse = optparse.OptionParser("""
   Examples:
   python banned.py --show
   python banned.py -t Python -f speed
-  python banned.py -t Do0pH2ck --all
+  python banned.py -t r2dr0dn --all
 """,version='1.0')  
 def Main():
   parse.add_option("-t",'-T','--text','--TEXT',dest="tex",type="string")
